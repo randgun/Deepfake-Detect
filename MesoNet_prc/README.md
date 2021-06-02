@@ -4,11 +4,6 @@ You can find here the implementation of the network architecture and the dataset
 
 [Link to full paper](https://arxiv.org/abs/1809.00888)
 
-## Requirements
-
-- Python 3.7
-- Numpy 1.14.2
-- Keras 2.1.5
 
 If you want to use the complete pipeline with the face extraction from the videos, you will also need the following librairies :
 
