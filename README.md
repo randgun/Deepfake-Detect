@@ -11,3 +11,5 @@
 - Pillow 6.2.0
 - Sklearn 0.20.4
 - Torch 1.7.1+cu110
+
+![avatar](http://baidu.com/pic/doge.png)
