@@ -13,6 +13,7 @@
 - Torch 1.7.1+cu110
 
 #### Test Results
+<img src="https://pic1.zhimg.com/80/v2-27f8c86d8f3b1d412b0af48ffef40cb4_1440w.jpg" style="zoom:50%">
 ![avatar](https://pic1.zhimg.com/80/v2-27f8c86d8f3b1d412b0af48ffef40cb4_1440w.jpg)
 ![avatar](https://pic2.zhimg.com/v2-c01fcfd10ab4a64cee47deeb37cea20d_r.jpg)
 
