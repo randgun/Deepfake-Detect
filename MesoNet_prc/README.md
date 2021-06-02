@@ -4,8 +4,6 @@ You can find here the implementation of the network architecture and the dataset
 
 [Link to full paper](https://arxiv.org/abs/1809.00888)
 
-[Demonstrastion video (light)](https://www.youtube.com/watch?v=vch1CmgX0LA)
-
 ## Requirements
 
 - Python 3.7
