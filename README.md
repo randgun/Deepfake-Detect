@@ -15,4 +15,4 @@
 <img src="https://pic2.zhimg.com/80/v2-c01fcfd10ab4a64cee47deeb37cea20d_1440w.jpg" width = "600" height = "460" align=center />
 
 #### Example
-<img src="https://pic3.zhimg.com/80/v2-94e308e398bacd3331e7648c41c90dd6_1440w.jpg" >
+<img src="https://pic3.zhimg.com/80/v2-94e308e398bacd3331e7648c41c90dd6_1440w.jpg" width = "600" height = "500" align=center />
