@@ -4,15 +4,6 @@ This repository is the implementation of the work used in our ICASSP paper
 [Exposing Deep Fakes Using Inconsistent Head Poses](https://arxiv.org/abs/1811.00661)
 
 
-
-#### Environment
-
-- Ubuntu 16.04
-- tqdm 4.28.1
-- numpy 1.15.4
-- dlib 19.16.0
-- opencv-python 3.4.3.18
-
 #### Test
 
 ```bash
